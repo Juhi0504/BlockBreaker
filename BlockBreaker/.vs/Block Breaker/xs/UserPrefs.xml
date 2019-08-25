@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{8EF7FD2A-EA24-02BA-E337-8605DF5645B6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Block.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LoseCollider.cs" Line="10" Column="41" />
+      <File FileName="Assets/Scripts/SceneLoader.cs" Line="15" Column="6" />
+      <File FileName="Assets/Scripts/Paddle.cs" Line="25" Column="1" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="28" Column="1" />
+      <File FileName="Assets/Scripts/Block.cs" Line="30" Column="28" />
+      <File FileName="Assets/Scripts/level.cs" Line="20" Column="17" />
+      <File FileName="Assets/Scripts/GameStatus.cs" Line="51" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/ja/Unity_tutorials/2D/Block Breaker/Block Breaker/Assets/Scripts/SceneLoader.cs" relfile="Assets/Scripts/SceneLoader.cs" line="16" column="33" />
+      <Breakpoint file="/Users/ja/Unity_tutorials/2D/Block Breaker/Block Breaker/Assets/Scripts/level.cs" relfile="Assets/Scripts/level.cs" line="22" column="1" />
+      <Breakpoint file="/Users/ja/Unity_tutorials/2D/Block Breaker/Block Breaker/Assets/Scripts/Block.cs" relfile="Assets/Scripts/Block.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
